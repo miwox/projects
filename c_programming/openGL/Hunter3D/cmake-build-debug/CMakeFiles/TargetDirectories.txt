@@ -1,0 +1,3 @@
+/Users/boss/SVN_Computer/ueb03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/boss/SVN_Computer/ueb03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/boss/SVN_Computer/ueb03/cmake-build-debug/CMakeFiles/Hunter3D.dir
