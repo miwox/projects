@@ -1,4 +1,4 @@
-Halo und herzlich Willkommen zu meinem Repo.
+Hallo und herzlich Willkommen auf meinem Repo.
 Ich wünsche Ihnen hier viel Spass.
 
 Gerne erreichen Sie mich unter 
