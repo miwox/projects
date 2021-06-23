@@ -1,6 +1,6 @@
 # Pong with rotating paddles
 
-> By Carsten Patzke & Miwand Baraksaie
+> Miwand Baraksaie
 
 # Controls
 `ESC` Exit  
