@@ -1,0 +1,343 @@
+{
+  "field": [
+    [
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 8
+      },
+      {
+        "type": 2,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 0,
+        "treasure": 0
+      }
+    ],
+    [
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 14
+      },
+      {
+        "type": 2,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 0,
+        "rotated": 1,
+        "treasure": 20
+      },
+      {
+        "type": 1,
+        "rotated": 2,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 0,
+        "rotated": 2,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 1,
+        "treasure": 0
+      }
+    ],
+    [
+      {
+        "type": 2,
+        "rotated": 0,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 3,
+        "treasure": 10
+      },
+      {
+        "type": 2,
+        "rotated": 3,
+        "treasure": 3
+      },
+      {
+        "type": 0,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 2,
+        "treasure": 18
+      },
+      {
+        "type": 0,
+        "rotated": 1,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 2,
+        "treasure": 22
+      }
+    ],
+    [
+      {
+        "type": 0,
+        "rotated": 0,
+        "treasure": 23
+      },
+      {
+        "type": 0,
+        "rotated": 0,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 2,
+        "treasure": 11
+      },
+      {
+        "type": 2,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 0,
+        "treasure": 0
+      },
+      {
+        "type": 0,
+        "rotated": 0,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 15
+      }
+    ],
+    [
+      {
+        "type": 2,
+        "rotated": 0,
+        "treasure": 1
+      },
+      {
+        "type": 1,
+        "rotated": 3,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 0,
+        "treasure": 7
+      },
+      {
+        "type": 1,
+        "rotated": 2,
+        "treasure": 2
+      },
+      {
+        "type": 2,
+        "rotated": 1,
+        "treasure": 24
+      },
+      {
+        "type": 2,
+        "rotated": 2,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 2,
+        "treasure": 12
+      }
+    ],
+    [
+      {
+        "type": 0,
+        "rotated": 3,
+        "treasure": 4
+      },
+      {
+        "type": 0,
+        "rotated": 1,
+        "treasure": 0
+      },
+      {
+        "type": 0,
+        "rotated": 3,
+        "treasure": 9
+      },
+      {
+        "type": 0,
+        "rotated": 2,
+        "treasure": 0
+      },
+      {
+        "type": 0,
+        "rotated": 1,
+        "treasure": 5
+      },
+      {
+        "type": 0,
+        "rotated": 3,
+        "treasure": 13
+      },
+      {
+        "type": 1,
+        "rotated": 2,
+        "treasure": 0
+      }
+    ],
+    [
+      {
+        "type": 1,
+        "rotated": 2,
+        "treasure": 0
+      },
+      {
+        "type": 2,
+        "rotated": 2,
+        "treasure": 16
+      },
+      {
+        "type": 2,
+        "rotated": 1,
+        "treasure": 0
+      },
+      {
+        "type": 1,
+        "rotated": 1,
+        "treasure": 17
+      },
+      {
+        "type": 2,
+        "rotated": 1,
+        "treasure": 21
+      },
+      {
+        "type": 1,
+        "rotated": 0,
+        "treasure": 6
+      },
+      {
+        "type": 1,
+        "rotated": 3,
+        "treasure": 0
+      }
+    ]
+  ],
+  "freeWayCard": {
+    "type": 1,
+    "rotated": 1,
+    "treasure": 19,
+    "position": {
+      "x": -1,
+      "y": -1
+    }
+  },
+  "currentPlayer": 0,
+  "players": [
+    {
+      "involved": true,
+      "name": "Human",
+      "directedBy": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "treasureCards": [
+        9,
+        3,
+        24,
+        5,
+        18,
+        21
+      ]
+    },
+    {
+      "involved": true,
+      "name": "Human",
+      "directedBy": 0,
+      "position": {
+        "x": 6,
+        "y": 0
+      },
+      "treasureCards": [
+        15,
+        14,
+        19,
+        12,
+        10,
+        13
+      ]
+    },
+    {
+      "involved": true,
+      "name": "Human",
+      "directedBy": 0,
+      "position": {
+        "x": 6,
+        "y": 6
+      },
+      "treasureCards": [
+        17,
+        16,
+        20,
+        7,
+        6,
+        23
+      ]
+    },
+    {
+      "involved": true,
+      "name": "Human",
+      "directedBy": 0,
+      "position": {
+        "x": 0,
+        "y": 6
+      },
+      "treasureCards": [
+        2,
+        22,
+        8,
+        4,
+        1,
+        11
+      ]
+    }
+  ]
+}
